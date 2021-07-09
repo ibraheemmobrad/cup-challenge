@@ -1,0 +1,10 @@
+.header,.main,footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.GoToGame {
+    background-color: lawngreen;
+    min-width: 250px;
+    text-align: center;
+}
