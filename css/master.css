@@ -1,0 +1,22 @@
+* {
+    direction: rtl;
+    color: white;
+}
+body {
+    background-color: green;
+}
+.nav {
+    background-color: orange;
+    height: 25px;
+    min-width: 100%;
+    max-width: 100%;
+    position: fixed;
+    top: 0%;
+}
+.nav .menu {
+    background-color: orange;
+}
+.nav li {
+    list-style: none;
+    text-align: center;
+}
