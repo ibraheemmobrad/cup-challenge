@@ -2,14 +2,11 @@
     direction: rtl;
     color: white;
 }
-body {
-    background-color: green;
-}
 a {
     text-decoration-color: none;
 }
 .nav {
-    background-color: orange;
+    background-color: red;
     height: 25px;
     min-width: 100%;
     max-width: 100%;
@@ -17,7 +14,7 @@ a {
     top: 0%;
 }
 .nav .menu {
-    background-color: orange;
+    background-color: red;
 }
 .nav li {
     list-style: none;
