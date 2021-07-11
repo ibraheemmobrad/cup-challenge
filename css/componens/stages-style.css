@@ -1,24 +1,24 @@
 body {
-    background-color: orange;
+  background-color: orange;
 }
 .stage {
-    background-color: blue;
-    -height: 150px;
-    max-height: 150px;
-    padding-bottom: 20px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  background-color: blue;
+  -height: 150px;
+  max-height: 150px;
+  padding-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 @media (min-width: 1000px) {
-    .stage {
-        width: calc(95%/3);
-    }
-    .stage-kontainer {
-        background-color: blue;
-    }
+  .stage {
+    width: calc(95% / 3);
+  }
+}
+.stage-kontainer {
+  background-color: blue;
 }
 .start-play {
-    background-color: lightgreen;
-    margin: auto;
+  background-color: lightgreen;
+  margin: auto;
 }
