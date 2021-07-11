@@ -14,6 +14,9 @@ body {
     .stage {
         width: calc(95%/3);
     }
+    .stage-kontainer {
+        background-color: blue;
+    }
 }
 .start-play {
     background-color: lightgreen;
